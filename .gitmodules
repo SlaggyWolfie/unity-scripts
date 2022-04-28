@@ -1,0 +1,3 @@
+[submodule "c-sharp-scripts"]
+	path = c-sharp-scripts
+	url = https://github.com/SlaggyWolfie/c-sharp-scripts
